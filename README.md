@@ -3,7 +3,7 @@
 
 ---Introduction to stored XSS--- 
 
--Stored cross site scripting is known as presistent XSS and it is the most damaging type of XSS attacks. It happens when the vulnerable application recives data from untrusted source and stores it, then includes it in the http response.
+-Stored cross site scripting is known as presistent XSS and it is the most damaging type of XSS attacks. It happens when the vulnerable application receives data from untrusted source and stores it, then includes it in the http response.
 
 -Stored XSS rely on unsanitized user input points that stores the input scripts premaritally on the targeted server. The attacker uses these input points to inject a malicious payload mostly by using javascript code. For example the attacker might inject the script into a user input form or a comment field. 
 
