@@ -40,6 +40,8 @@ I am going to use dvwa to demonstrate this vulnerability
 
 Refrences:
 
+https://github.com/digininja/DVWA
+
 https://www.acunetix.com/websitesecurity/xss/
 
 https://crashtest-security.com/stored-xss-attack/
@@ -48,4 +50,5 @@ https://portswigger.net/web-security/cross-site-scripting/stored
 
 https://www.youtube.com/watch?v=P1I9UGpGdrU
 
+https://www.w3schools.com/php/func_string_htmlspecialchars.asp
 
