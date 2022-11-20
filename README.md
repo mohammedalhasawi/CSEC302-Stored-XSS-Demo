@@ -27,9 +27,14 @@ I am going to use dvwa to demonstrate this vulnerability
 
 --vulnrable code--
 
+-Low security
 <img width="1724" alt="Screen Shot 2022-11-20 at 3 46 03 AM" src="https://user-images.githubusercontent.com/70083913/202893652-e235d997-2525-4b54-bd84-d93f2271e26e.png">
 
+-Medium security
 <img width="1728" alt="Screen Shot 2022-11-20 at 3 46 24 AM" src="https://user-images.githubusercontent.com/70083913/202893662-199660b3-85b6-43dc-8990-680b8dddbbf4.png">
+
+-High security
+<img width="1728" alt="Screen Shot 2022-11-20 at 6 25 40 AM" src="https://user-images.githubusercontent.com/70083913/202899882-94d468ca-fcec-4caf-aa16-455c8cc3e155.png">
 
 
 
@@ -38,7 +43,7 @@ I am going to use dvwa to demonstrate this vulnerability
 <img width="1728" alt="Screen Shot 2022-11-20 at 3 46 42 AM" src="https://user-images.githubusercontent.com/70083913/202893674-bcbe91af-29b1-4652-86b8-2a61d3c72518.png">
 
 
-Refrences:
+References:
 
 https://github.com/digininja/DVWA
 
