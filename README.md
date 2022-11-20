@@ -38,12 +38,14 @@ I am going to use dvwa to demonstrate this vulnerability
 <img width="1728" alt="Screen Shot 2022-11-20 at 3 46 42 AM" src="https://user-images.githubusercontent.com/70083913/202893674-bcbe91af-29b1-4652-86b8-2a61d3c72518.png">
 
 
-
+Refrences:
 
 https://www.acunetix.com/websitesecurity/xss/
 
 https://crashtest-security.com/stored-xss-attack/
 
 https://portswigger.net/web-security/cross-site-scripting/stored
+
+https://www.youtube.com/watch?v=P1I9UGpGdrU
 
 
